@@ -12,10 +12,10 @@ pool:
 
 steps:
 - task: ExtractFiles@1
-inputs:
-  archiveFilePatterns: '*.zip'
-  destinationFolder: '$b(Build.SourcesDirectory)'
-  cleanDestinationFolder: false
+  inputs:
+    archiveFilePatterns: '*.zip'
+    destinationFolder: '$b(Build.SourcesDirectory)'
+    cleanDestinationFolder: false
 
 - task: Maven@3
   inputs:
