@@ -2,8 +2,7 @@
 
 - 👀 I’m interested in the development, implementation, and security of Web3. 
 
-- 🌱 I’m currently working for three different companies/projects.  I am the CMO and web developer for a company I launched with my roommate called, BiNGER.
-I am also currently involved with two failry large NFT projects.
+- 🌱 I’m currently working for three different companies/projects. 
 
 - 💞️ I’m looking to collaborate on anything!  I am always looking to enhance my knowledge - if you would like to collaborate with me, just ask! :)
 
